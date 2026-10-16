@@ -1,0 +1,12 @@
+# Godot
+.godot/
+*.import.tmp
+export/
+.screenshots/
+# Blender
+*.blend1
+__pycache__/
+# OS
+.DS_Store
+.godot-bin/
+.previews/
