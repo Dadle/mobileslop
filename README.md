@@ -121,3 +121,9 @@ cannot be licensed headlessly without a Unity ID login. Godot 4.7 was already in
 and exports to Android/iOS/Web, so the game was built there. To unlock UE later: link your GitHub
 account at https://www.unrealengine.com/en-US/ue-on-github, then `git clone` the engine and run
 `Setup.sh && GenerateProjectFiles.sh && make`.
+
+## License
+
+Everything in this repository (code, generator scripts, and the generated models and audio) is released
+under the [MIT License](LICENSE). The bundled fonts (Bangers, Lilita One, Rubik) are under the
+SIL Open Font License; their licence texts are in `assets/fonts/`.
